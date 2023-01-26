@@ -1,0 +1,1 @@
+Hello everyone , I am a master sudent at GISMA BUSİNESS  SCHOOL  in data Science programme, I would like to share my experiences on python by using google colab. 
